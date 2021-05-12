@@ -1,1 +1,1 @@
-The game idea inspiration was take from my favorite mobile games called Stack, I have added some additional features that that Stack game is lacking with is different difficulty levels and a educational twist which involves Academic quotes appearing when the player finishes the game. 
+The game idea inspiration was take from my favorite mobile games called Stack, I have added some additional features that that Stack game is lacking witch is different difficulty levels and a educational twist which involves Academic quotes appearing when the player finishes the game. 
